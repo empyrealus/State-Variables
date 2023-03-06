@@ -36,4 +36,5 @@ class state_variable_composer_container
   
 }
 const varCreator: state_variables = new state_variable_composer_container(0,"myString",undefined,"This is my string for the variable \"MyString\"",undefined);
+// view basic object components for building the State Variable
 console.log(varCreator);
